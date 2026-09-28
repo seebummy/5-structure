@@ -11,12 +11,29 @@ margin: 0%;
     background-color:
      blanchedalmond;
     padding: 30px;
+    margin-bottom: 30px;
     color:aliceblue
-    
-
 }
 
 .page-name {
 margin: 0%;
 
+}
+
+.nav-links {
+    color:white
+}
+
+.main-content {
+background-color: cadetblue;
+padding: 30px;
+color: aliceblue;
+margin-bottom: 30px;
+
+}
+
+.sitefooter {
+    background-color: coral;
+    padding: 30px;
+    margin-top: 30px;
 }
