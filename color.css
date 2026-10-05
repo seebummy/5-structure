@@ -23,6 +23,21 @@ margin: 0%;
 .nav-links {
     color:white
 }
+.nav-links:hover {
+background-color:aliceblue;
+color: black;
+padding: 10px;
+}
+
+.nav-links:active {
+background-color: blueviolet;
+}
+
+/* this is with the keyboard. */
+.nav-links:focus {
+font-size: 30px; 
+} 
+
 
 .main-content {
 background-color: cadetblue;
